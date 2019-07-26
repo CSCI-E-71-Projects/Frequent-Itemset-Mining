@@ -1,0 +1,8 @@
+Association Rules
+
+other vegetables (1903) ---> whole milk (2513) - conf(0.386758)
+whole milk (2513) ---> other vegetables (1903) - conf(0.292877)
+
+Non Generated Rules
+
+(none)

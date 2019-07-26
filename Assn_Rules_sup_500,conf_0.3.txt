@@ -1,0 +1,11 @@
+Association Rules
+
+other vegetables (1903) ---> whole milk (2513) - conf(0.386758)
+rolls/buns (1809) ---> whole milk (2513) - conf(0.307905)
+yogurt (1372) ---> whole milk (2513) - conf(0.401603)
+
+Non Generated Rules
+
+whole milk (2513) ---> other vegetables (1903) - conf(0.292877)
+whole milk (2513) ---> rolls/buns (1809) - conf(0.221647)
+whole milk (2513) ---> yogurt (1372) - conf(0.21926)
